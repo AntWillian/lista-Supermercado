@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListaMercado</string>
+    <string name="exemploHint">Ex: Feijao</string>
+</resources>
